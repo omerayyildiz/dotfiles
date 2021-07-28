@@ -229,7 +229,7 @@ Host omerayyildiz
 - Photoshop Workspace
 - Illustrator Workspace
 - XD Plugins
-- Install Fonts from `tools/fonts``
+- Install Fonts from `tools/fonts`
 - Set Brush-Set `tools/brush-set`
 
 ---
