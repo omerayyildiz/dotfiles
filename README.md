@@ -194,9 +194,9 @@ touch config
 
 ```yaml
 Host *
-AddKeysToAgent yes
-UseKeychain yes
-IdentityFile ~/.ssh/id_ed25519
+     AddKeysToAgent yes
+     UseKeychain yes
+     IdentityFile ~/.ssh/id_ed25519
 ```
 
 ```bash
@@ -211,10 +211,10 @@ ssh-add -K ~/.ssh/id_ed25519
 
 ```yaml
 Host omerayyildiz
-HostName { Server IP here }
-Port 22
-User root
-IdentityFile ~/.ssh/private_key
+     HostName { Server IP here }
+     Port 22
+     User root
+     IdentityFile ~/.ssh/private_key
 ```
 
 ### Update Development Tools
