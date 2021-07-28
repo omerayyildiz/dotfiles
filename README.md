@@ -230,7 +230,7 @@ Host omerayyildiz
 - Illustrator Workspace
 - XD Plugins
 - Install Fonts from `tools/fonts``
-- Set Bruhs `tools/brush-set`
+- Set Brush-Set `tools/brush-set`
 
 ---
 
