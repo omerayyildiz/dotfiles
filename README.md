@@ -172,6 +172,8 @@
      signingkey = { GPG KEY HERE }
 [init]
      defaultBranch = main
+[pull]
+     rebase = false
 ```
 
 - Set GitHub SSH Key
